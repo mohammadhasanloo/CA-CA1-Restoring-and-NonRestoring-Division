@@ -1,0 +1,50 @@
+C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Testbench.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Controller.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/ShiftReg.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/ShiftReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftReg
+
+Top level modules:
+	ShiftReg
+
+} {} {}} C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Adder_Subtractor.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Adder_Subtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AdderSubtractor
+
+Top level modules:
+	AdderSubtractor
+
+} {} {}} C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Cnt4Bit.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Cnt4Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module upcnt4
+
+Top level modules:
+	upcnt4
+
+} {} {}} C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Divider_TOP.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Divider_TOP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RestoringDivision
+
+Top level modules:
+	RestoringDivision
+
+} {} {}} C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Datapath.v {1 {vlog -work work -stats=none C:/Users/saeed/Desktop/Computer-Architecture-Projects/CA1/Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}}
